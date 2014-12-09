@@ -1,0 +1,1 @@
+../../d.ts/jquery.colorpicker.d.ts
